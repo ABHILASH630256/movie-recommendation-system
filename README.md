@@ -1,5 +1,8 @@
 # 🎬 CineGraph — GNN Movie Recommendation System
 
+## 🌐 Live Demo
+https://movie-recommendation-system-5ed7wbd6aa35rbvxbd46my.streamlit.app
+
 A Graph Neural Network (LightGCN) based movie recommender built on MovieLens 100K.
 
 ## 🚀 Quick Start
